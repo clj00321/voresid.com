@@ -1,3 +1,0 @@
-# 👤 VoresID.com
-
-🐋 DockerCompose
